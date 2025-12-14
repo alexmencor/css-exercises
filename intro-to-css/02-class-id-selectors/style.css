@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+p {
+    background-color: rgb(238, 125, 125);
+    font-family: Verdana,sans-serif;
+}
+div {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#another {
+    background-color: rgb(108, 190, 108);
+    font-size: 24px;
+    font-weight: bold;
+}
